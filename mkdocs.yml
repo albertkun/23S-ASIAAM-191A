@@ -1,0 +1,96 @@
+
+site_name: AA191A-Web Development and GIS for Social Change
+repo_url: https://github.com/albertkun/22S-ASIAAM-191A/
+
+theme:
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light-blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode  
+  font:
+    text: Arial
+  favicon: etc/media/favicon.png
+  logo: etc/media/favicon.png
+  name: material
+  custom_dir: overrides
+  features:
+      - content.tabs.link
+      - navigation.instant
+      - navigation.tabs
+      - content.code.annotate
+      - search.highlight
+      - toc.follow
+      # - navigation.indexes
+      - navigation.top
+      - search.suggest
+      
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      question: octicons/question-16 
+      quiz: material/thought-bubble
+
+markdown_extensions:
+    - pymdownx.critic
+    - pymdownx.mark
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.highlight
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.inlinehilite
+    - pymdownx.superfences
+    - pymdownx.magiclink
+    - pymdownx.details
+    - pymdownx.snippets
+    - smarty
+    - footnotes
+    - meta
+    - pymdownx.keys
+    - toc:
+        permalink: True
+        toc_depth: 3
+    - sane_lists
+    - admonition
+    - footnotes
+    - attr_list
+    
+extra_javascript:
+  # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - etc/js/tables.js
+  - etc/js/extra.js
+extra_css:
+  - etc/css/extra.css
+
+edit_uri: edit/main/docs/
+plugins:
+  - git-revision-date
+  # - autorefs
+  - table-reader
+  - tags
+  - awesome-pages:
+      collapse_single_pages: true
+  - macros
+  - search:
+      lang: en
+  # - htmlproofer
+      # raise_error: True
+  - encryptcontent:
+      title_prefix: '🔒'
+      # global_password: !ENV ASIA_191_PASS
+      # password_button: True      
+      encrypted_something:
+          mkdocs-encrypted-toc: [nav, class]
+          mkdocs-encrypted-footer: [div, id]
+          mkdocs-encrypted-footer-meta: [div, id]
