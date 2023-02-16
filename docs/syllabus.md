@@ -17,7 +17,7 @@ Tuesdays, Thursdays 3:15pm – 4pm in Public Affairs 2400A and online by appoint
 - https://calendly.com/aa191a/office-hours
 
 ## Preparation
-- Fill out the [pre-course survey](https://forms.gle/jtda8UdbYinUjYzC8) **before** the first day of instruction (4/4/2023).
+- Fill out the [pre-course survey](https://cloud.albertmaps.com/apps/forms/mDqcfgpGimwpC4Ap) **before** the first day of instruction (4/4/2023).
 
 <!-- [Static Syllabus in PDF form](23S-AAS-191A_Syllabus_2023.pdf) -->
 #### Please note: This syllabus is subject to change.
