@@ -3,23 +3,23 @@
 Welcome to the syllabus and course material for Web Development and GIS for Social Change: Critical Data for Transforming Civil Society.
 
 ## Class Details
-Asian American Studies Department, Spring, 2022
+Asian American Studies Department, Spring, 2023
 
-Mondays, Wednesdays 2:00PM – 3:15PM
+Tuesdays, Thursdays 2:00PM – 3:15PM
 
 Public Affairs 2400A
 
 ### Instructor
 Albert S. Kochaphum (albertkun@ucla.edu)
 ### Office Hours
-Mon, Weds 3:15pm – 4pm in Public Affairs 2400A and online by appointment below:
+Tuesdays, Thursdays 3:15pm – 4pm in Public Affairs 2400A and online by appointment below:
 
 - https://calendly.com/aa191a/office-hours
 
 ## Preparation
-- Fill out the [pre-course survey](https://forms.gle/jtda8UdbYinUjYzC8) **before** the first day of instruction (3/28/2022).
+- Fill out the [pre-course survey](https://forms.gle/jtda8UdbYinUjYzC8) **before** the first day of instruction (4/4/2023).
 
-<!-- [Static Syllabus in PDF form](22S-AAS-191A_Syllabus_2022.pdf) -->
+<!-- [Static Syllabus in PDF form](23S-AAS-191A_Syllabus_2023.pdf) -->
 #### Please note: This syllabus is subject to change.
 
 ![](./media/syllabus1.png){:style="width:5.06944in;height:2.56289in"}
