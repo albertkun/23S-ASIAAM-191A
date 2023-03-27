@@ -1,6 +1,6 @@
 # Help
 
-If you run into any issues, please check the guides below first. Then feel free to ask on [Discord :material-discord:](https://discord.gg/awktuEcAqW) or the [GitHub discussion forums :material-github:](https://github.com/albertkun/23S-ASIAAM-191A/discussions/categories/help-desk).
+If you run into any issues, please check the guides below first. Then feel free to ask on [Discord :simple-discord:](https://discord.gg/awktuEcAqW) or the [GitHub discussion forums :material-github:](https://github.com/albertkun/23S-ASIAAM-191A/discussions/categories/help-desk).
 
 You can always contact me below if you have questions.
 
