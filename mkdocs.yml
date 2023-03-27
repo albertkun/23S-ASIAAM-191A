@@ -41,19 +41,23 @@ theme:
       quiz: material/thought-bubble
 
 markdown_extensions:
+    - codehilite
     - pymdownx.critic
     - pymdownx.mark
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
-    - pymdownx.highlight
     - pymdownx.tabbed:
         alternate_style: true
-    - pymdownx.inlinehilite
-    - pymdownx.superfences
     - pymdownx.magiclink
     - pymdownx.details
-    - pymdownx.snippets
     - smarty
     - footnotes
     - meta
@@ -84,7 +88,7 @@ plugins:
   - macros
   - search:
       lang: en
-  # - htmlproofer
+  - htmlproofer
       # raise_error: True
   - encryptcontent:
       title_prefix: '🔒'

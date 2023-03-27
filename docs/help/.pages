@@ -1,0 +1,9 @@
+nav:
+    - Index: index.md
+    - Submitting Thinking Caps: thinking_caps.md
+    - Submitting Labs: submit.md
+    - github_sign_up.md
+    - gitscm.md
+    - git_creating.md
+    - git_cloning.md
+    - git_commit.md

@@ -1,4 +1,5 @@
-git+https://github.com/LACMTA/mkdocs-material-insiders.git
+# git+https://github.com/LACMTA/mkdocs-material-insiders.git
+mkdocs-material
 mkdocs-git-revision-date-plugin
 mkdocs-encryptcontent-plugin
 mkdocs-htmlproofer-plugin
