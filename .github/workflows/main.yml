@@ -21,6 +21,7 @@ jobs:
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-awesome-pages-plugin
+      - run: pip install pygments
       # - run: pip install mkdocs-autorefs
       - run: pip install pymdown-extensions
       - run: pip install mkdocs-table-reader-plugin   

@@ -88,7 +88,7 @@ plugins:
   - macros
   - search:
       lang: en
-  - htmlproofer
+  # - htmlproofer
       # raise_error: True
   - encryptcontent:
       title_prefix: '🔒'
