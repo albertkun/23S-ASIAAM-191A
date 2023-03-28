@@ -8,5 +8,5 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Intro to Web Dev**](./week1/prelab.md)|Pre-lab|Wednesday 4/6|
-|[**Pre-course Survey and reading**](week0.md)|Survey|Monday 4/4|
+|[**Intro to Web Dev**](./week1/prelab.md)|Pre-lab|Thursday 4/6|
+|[**Pre-course Survey and reading**](week0.md)|Survey|Tuesday 4/4|
