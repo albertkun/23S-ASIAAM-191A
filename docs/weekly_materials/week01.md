@@ -2,16 +2,14 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|3/28|Lecture|Introducing the course, GIS, data, and ethics|[]()|[]()|
-|3/30|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|[]()|[]()|
+|4/4|Lecture|Introducing the course, GIS, data, and ethics|[]()|[]()|
+|4/6|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|[]()|[]()|
 
 ## Lecture
 
 Charting the course for the class and how it relates to GIS, data, and ethics.
 
 - ### Introducing the course, GIS, data, and ethics
-
-[Lecture 1 Slides]()
 
 ## Lab
 
@@ -40,11 +38,14 @@ Start to form teams based on initially pre-assigned groups.
 !!! warning
     Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
 
-### Due Thursday 4/46
+### Due Tuesday 4/4
+- [**Pre-course Servey**](https://cloud.albertmaps.com/apps/forms/s/ED2ro2DG7KRX5eLRsj9gjNMx)
+
+### Due Thursday 4/6
 
 - [**Pre-lab #1**](../assignments/week1/prelab.md)
 
-### Due Tuesaday 4/11
+### Due Tuesday 4/11
 
 - [**Thinking Cap: What are problems with the way we use data and GIS?**](../assignments/week1/thinking_cap.md)
 - [**Finish the weekly reading**](../assignments/week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)
