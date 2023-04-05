@@ -14,6 +14,7 @@ Please have this completed before the lab:
 3. Download and install [VS Code](https://code.visualstudio.com/)
 4. Read the introduction pages [1](https://handsondataviz.org/introduction.html), [2](https://handsondataviz.org/believe.html), and [3](https://handsondataviz.org/shades.html) of [Hands On Data Viz](https://handsondataviz.org/introduction.html)
 5. Read **Dealing with files** on MDN: 
+
    - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files.
 
 ## Additional Help
@@ -25,7 +26,8 @@ Here are guides to help with signing-up with GitHub and installing GitSCM:
 
 If you have any further trouble with these steps, be sure reach out to me [albertkun@ucla.edu](mailto:albertkun@ucla.edu) before the lab session.
 
-### Optional Technical Readings:
+### Optional Technical Readings
+
 - HTML Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 - CSS Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
 - JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
