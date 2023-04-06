@@ -1,4 +1,4 @@
-# git+https://github.com/LACMTA/mkdocs-material-insiders.git
+git+https://github.com/LACMTA/mkdocs-material-insiders.git
 mkdocs-material
 mkdocs-git-revision-date-plugin
 mkdocs-encryptcontent-plugin
@@ -7,3 +7,4 @@ mkdocs-autorefs
 mkdocs-macros-plugin     
 mkdocs-table-reader-plugin
 pymdown-extensions
+mkdocs-awesome-pages-plugin

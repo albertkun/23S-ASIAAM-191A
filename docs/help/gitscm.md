@@ -2,7 +2,8 @@
 
 1.  Go to: <https://git-scm.com/>
 
-2.  Download and install, based on your operating system below: 
+2.  Download and install, based on your operating system below:
+
 === "PC"
 
     3. Run the [installer](https://git-scm.com/download/win) and go through the installation wizard.
