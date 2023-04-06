@@ -1,4 +1,4 @@
-# GITting Used to Web Development and JavaScript
+# GITting down with labs and code
 
 ![](././media/hello_world.png){: style="max-width:300px"}
 ## Objectives

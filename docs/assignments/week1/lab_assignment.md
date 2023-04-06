@@ -12,7 +12,7 @@ Your map portfolio must contain the following:
 - Use an ordered list [`<ol>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) and an unordered list [`<ul>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) to list things.
 - Include an [`<img>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) with a photo of yourself or an avatar. Feel free to add other images too to give some flavor to your page, like food or desserts.
 - Use the [`<a>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) to add a link to 2 other web pages.
-- {--Add at least 2-3 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled.--} (removed due to running out of time for lab)
+- Add at least 2-3 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled. Remember to use a tool like [Lat/Lng finder](https://www.latlong.net/) to get the coordinates!
 - Set up [GitHub pages](../../help/submit.md) for your repo
 
 ###  Submission
