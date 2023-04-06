@@ -12,8 +12,9 @@ Please have this completed before the lab:
 1. Sign-up with a [GitHub](https://github.com/) account
 2. Download and install [Git SCM](https://git-scm.com/)
 3. Download and install [VS Code](https://code.visualstudio.com/)
-4. Read the introduction pages [1](https://handsondataviz.org/introduction.html), [2](https://handsondataviz.org/believe.html), and [3](https://handsondataviz.org/shades.html) of [Hands On Data Viz](https://handsondataviz.org/introduction.html)
-5. Read **Dealing with files** on MDN: 
+4. Download and install [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+5. Read the introduction pages [1](https://handsondataviz.org/introduction.html), [2](https://handsondataviz.org/believe.html), and [3](https://handsondataviz.org/shades.html) of [Hands On Data Viz](https://handsondataviz.org/introduction.html) (Total reading time 10 - 15 minutes)
+6. Read **Dealing with files** on MDN: 
 
    - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files.
 

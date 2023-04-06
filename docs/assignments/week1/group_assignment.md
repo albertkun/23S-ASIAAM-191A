@@ -1,7 +1,7 @@
 # Group Assignment 1: Repository and Readme
 
 !!! info "Group List"
-    Find your name and group on the spreadsheet to see remember which group you are in: [LINK TBD](LINK TBD)
+    Find your name and group on the spreadsheet to remember which group you are in: [https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit?usp=sharing)
 
 ## Due Thursday 4/13
 
@@ -21,8 +21,8 @@
     Markdown is text formatting that is used all over and commonly encountered on GitHub too! Since is your group's introduction to the world, make sure you use [Markdown formatting](https://help.github.com/features/mastering-markdown/) to style your content properly.  
 
 3. Post your group members and repository on the discussion board:
-    - [Link TBD]()
-     <!-- - https://github.com/albertkun/23S-ASIAAM-191A/discussions/3 -->
+
+    - [https://github.com/albertkun/23S-ASIAAM-191A/discussions/3](https://github.com/albertkun/23S-ASIAAM-191A/discussions/3)
 
 #### **Extra Credit**
 
