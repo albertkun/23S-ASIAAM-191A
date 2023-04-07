@@ -12,7 +12,7 @@ Your map portfolio must contain the following:
 - Use an ordered list [`<ol>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) and an unordered list [`<ul>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) to list things.
 - Include an [`<img>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) with a photo of yourself or an avatar. Feel free to add other images too to give some flavor to your page, like food or desserts.
 - Use the [`<a>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) to add a link to 2 other web pages.
-- Add at least 2-3 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled. Remember to use a tool like [Lat/Lng finder](https://www.latlong.net/) to get the coordinates!
+- {--Add at least 2-3 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled.--} (removed due to running out of time for lab)
 - Set up [GitHub pages](../../help/submit.md) for your repo
 
 ###  Submission
@@ -25,7 +25,8 @@ Your map portfolio must contain the following:
 - Paste your link as a comment in the [Discussion forum for Lab Assignment #1](https://github.com/albertkun/23S-ASIAAM-191A/discussions/2)
 
 ### Extra Credit: (any of these) 
-   - Add another `html` page(it can be `more_about_me.html` or anything else) to a completely different HTML page not `index.html`. (Be sure to link it to your `index.html` and describe what you are showing)
+   - **Add another `html` page** (it can be `more_about_me.html` or anything else) not `index.html`. (Be sure to link it to your `index.html` and describe what you are showing)
+  - **Add JavaScript and a map**:  Add at least 2-3 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled. Remember to use a tool like [Lat/Lng finder](https://www.latlong.net/) to get the coordinates!
 
 ### HTML Resources to help with your assignment
 
