@@ -28,7 +28,7 @@ Learning how to use GitHub, VSCode, and some JavaScript.
         
 Start to form teams based on initially pre-assigned groups on this spreadsheet: 
 
-https://tinyurl.com/23s-aa191-groups
+- [https://tinyurl.com/23s-aa191-groups](https://tinyurl.com/23s-aa191-groups)
 
 ## Getting Started help
 
