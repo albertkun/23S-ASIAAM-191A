@@ -1,9 +1,9 @@
-# 📝Lab Assignment #1 - Map Portfolio
+# 📝Lab Assignment #1 - Portfolio
 
 ## Due 4/13
 Time to put your skills to the test and create a home page for the individual maps that you will be making this quarter. Describe some of your interests. This is your portfolio, so feel free to delete or add anything. If you made multiple HTML pages, please link them all to the `index.html` using the `<a href=""></a>` tag>.
 
-Your map portfolio must contain the following:
+Your Portfolio must contain the following:
 
 - A [`<h1>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) for your title
 - A `<h2>` or [`<h3>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) to create a title for a sub-section about your interests. 
