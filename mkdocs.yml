@@ -3,6 +3,9 @@ site_name: AA191A-Web Development and GIS for Social Change
 repo_url: https://github.com/albertkun/23S-ASIAAM-191A/
 
 theme:
+  features:
+    - content.code.copy
+    - content.code.annotate 
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

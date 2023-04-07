@@ -1,4 +1,7 @@
-# Basics of JavaScript
+# Extra: Basics of JavaScript
+
+!!! note
+    This lab will be covered on Thursday 4/13
 
 JavaScript makes sure our page knows how to function and react. There are different frameworks for JavaScript, like React.js and vue.js, but this class will be focusing on vanilla JavaScript with ES6+ standards.[Read more about the standards here](https://www.tutorialspoint.com/es6/es6_quick_guide.htm).
 
