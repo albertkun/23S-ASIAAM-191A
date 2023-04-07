@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |4/4|Lecture|Introducing the course, GIS, data, and ethics|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W1_Lecture_1.pdf)|[Here](https://cloud.albertmaps.com/s/mtkN7F5jyQqKajD)|
-|4/6|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|[]()|[]()|
+|4/6|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W1_Lab_1.pdf))|[Here](https://ucla.zoom.us/rec/share/5gRHDbfTvtad2Uj-j7pHeHPi8lZta-MGhzPFiPUfPtUgwN47qPEBCEZzsbdR1Tuk.aqmSjwYjSZHOybMP)|
 
 ## Lecture
 
@@ -19,10 +19,12 @@ Learning how to use GitHub, VSCode, and some JavaScript.
 
 - [GITting Used to Web Development and JavaScript](../labs/week1/index.md)
 
-<!-- [Lab 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf ) -->
+[Lab 1 Mini-Lecture Slides](./Materials/AA191_S_W1_Lab_1.pdf )
 
 ## Group Work
-
+    !!! info
+        Due to running out of time on lab, we will spend part of Tuesday with group work.
+        
 Start to form teams based on initially pre-assigned groups.
 
 ## Getting Started help
