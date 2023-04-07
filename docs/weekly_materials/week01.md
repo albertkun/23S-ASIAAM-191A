@@ -24,11 +24,11 @@ Learning how to use GitHub, VSCode, and some JavaScript.
 ## Group Work
 
 !!! info
-    Due to running out of time on lab, we will spend part of Tuesday with group work.
+    Due to running out of time on lab, we will spend part of next Tuesday (4/11) with group work.
         
 Start to form teams based on initially pre-assigned groups on this spreadsheet: 
 
-[https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit?usp=sharing)
+https://tinyurl.com/23s-aa191-groups
 
 ## Getting Started help
 
