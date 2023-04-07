@@ -19,13 +19,16 @@ Learning how to use GitHub, VSCode, and some JavaScript.
 
 - [GITting Used to Web Development and JavaScript](../labs/week1/index.md)
 
-[Lab 1 Mini-Lecture Slides](./Materials/AA191_S_W1_Lab_1.pdf )
+[Lab 1 Mini-Lecture Slides](../materials/AA191_S_W1_Lab_1.pdf)
 
 ## Group Work
-    !!! info
-        Due to running out of time on lab, we will spend part of Tuesday with group work.
+
+!!! info
+    Due to running out of time on lab, we will spend part of Tuesday with group work.
         
-Start to form teams based on initially pre-assigned groups.
+Start to form teams based on initially pre-assigned groups on this spreadsheet: 
+
+    - [https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit?usp=sharing).
 
 ## Getting Started help
 
