@@ -2,8 +2,8 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/4|Critical Cartography and Civil Society|Lecture|||
-|4/6|[Tales from the JavaScript]||||
+|4/11|Critical Cartography and Civil Society|Lecture|||
+|4/13|[JavaSCrypt of the Necrodancer]||||
 
 ## Lecture
 
@@ -16,15 +16,20 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 
 ## Lab
 
-- [Tales from the JavaScript](../labs/week2/index.md)
+- [JavaScript of the Necrodancer](../labs/week2/index.md)
 
 ## Assignments
 
+### Due Tuesday 4/11
+
+- [**Thinking Cap: What are problems with the way we use data and GIS?**](../assignments/week1/thinking_cap.md)
+- [**Finish the weekly reading**](../assignments/week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)
+ 
 ### Due Thursday 4/13
 
-- [Lab Assignment #1](../assignments/week1/lab_assignment.md)
-  - [Submit using the discussion post](../help/submit.md)!!
-- [Pre-lab Reading](../assignments/week2/prelab.md)
+- [**Lab #1: Portfolio**](../assignments/week1/lab_assignment.md)
+- [**Group Assignment #1: Repository and Readme**](../assignments/week1/group_assignment.md)
+- [Pre-lab](../assignments/week2/prelab.md)
 
 ### Due Tuesday 4/18
 

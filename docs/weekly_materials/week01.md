@@ -57,8 +57,8 @@ Start to form teams based on initially pre-assigned groups on this spreadsheet:
 - [**Thinking Cap: What are problems with the way we use data and GIS?**](../assignments/week1/thinking_cap.md)
 - [**Finish the weekly reading**](../assignments/week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)
 
-<!-- ### Due Thursday 4/13
+### Due Thursday 4/13
 
 - [**Lab #1: Portfolio**](../assignments/week1/lab_assignment.md)
 - [**Group Assignment #1: Repository and Readme**](../assignments/week1/group_assignment.md)
-- [Pre-lab](../assignments/week2/prelab.md) -->
+- [Pre-lab](../assignments/week2/prelab.md)

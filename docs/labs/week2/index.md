@@ -1,4 +1,4 @@
-# Tales from the JavaScript and FUNctions
+# JavaSCrypt of the Necrodancer and FUNctions
 
 Creating our first map with [Leaflet.js](https://www.leaflet.js) and learning to use JavaScript!
 
