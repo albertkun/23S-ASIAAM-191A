@@ -1,0 +1,41 @@
+# Week 2 - Humanizing Technology
+
+Date|Type|Description|Slides|Recording|
+|---|----|-----------|------|---------|
+|4/4|Critical Cartography and Civil Society|Lecture|||
+|4/6|[Tales from the JavaScript]||||
+
+## Lecture
+
+- Critical Cartography and Civil Society
+ 
+### Visiting Voice: Mariah Tso
+![../media/mariahtso.jpg](../media/mariahtso.jpg)
+
+Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche Center](https://bunchecenter.ucla.edu/) and the [Million Dollar Hoods Project](https://milliondollarhoods.pre.ss.ucla.edu/).
+
+## Lab
+
+- [Tales from the JavaScript](../labs/week2/index.md)
+
+## Assignments
+
+### Due Thursday 4/13
+
+- [Lab Assignment #1](../assignments/week1/lab_assignment.md)
+  - [Submit using the discussion post](../help/submit.md)!!
+- [Pre-lab Reading](../assignments/week2/prelab.md)
+
+### Due Tuesday 4/18
+
+- [**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)
+- [Thinking Cap #2](https://github.com/albertkun/22S-ASIAAM-191A/discussions/10)
+
+### Due Thursday 4/20
+
+- [Lab Assignment #2](../assignments/week2/lab_assignment.md)
+- [Optional: Pre-lab](../assignments/week3/prelab.md)
+
+### Due Thursday 4/27
+
+- [Group Assignment #2](../assignments/week2/group_assignment.md)
