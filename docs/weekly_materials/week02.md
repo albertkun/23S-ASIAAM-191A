@@ -14,6 +14,8 @@ Date|Type|Description|Slides|Recording|
 
 Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche Center](https://bunchecenter.ucla.edu/) and the [Million Dollar Hoods Project](https://milliondollarhoods.pre.ss.ucla.edu/).
 
+- [Discussion #1 - Document](https://docs.google.com/document/d/1kFfSY3FOYjmkDQwF0iWhwwaa4aODrNtHL1MXd_gLFwY/copy)
+- [Discussion #1 - Submission](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=1823767792)
 ## Lab
 
 - [JavaScript of the Necrodancer](../labs/week2/index.md)
