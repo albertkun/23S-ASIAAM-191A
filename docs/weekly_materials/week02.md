@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/11|Critical Cartography and Civil Society|Lecture|||
+|4/11|Critical Cartography and Civil Society|Lecture|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W2_Lecture_2.pdf)|[Here]( https://ucla.zoom.us/rec/share/2iRJrQnpkW2eo5rxLlsm5taL6-mO9KZoAsZQ29vMYJLckYSq_ONYdFucRSIpnt0R.OLKUcYgneq9-3Pl-)|
 |4/13|[JavaSCrypt of the Necrodancer]||||
 
 ## Lecture
