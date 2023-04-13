@@ -11,14 +11,15 @@ The requirements are:
   
 - Use a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) to add those markers to the your map
 - Markers should have popups that describe what the point is.
-- {--Add a GeoJSON with some other set of relevant information, you can search online for GeoJSON datasets if you'd like.--} (Moved to next lab.)
 
 ### Extra Credit
 
 - Use something else like images inside the pop-ups.
 - Try using [circle markers](https://leafletjs.com/SlavaUkraini/reference.html#circlemarker) instead of Leaflet markers
 - Try something new with the [Leaflet API](https://leafletjs.com/SlavaUkraini/reference-1.7.1.html)
-  
+- Follow the [extra lab](../../labs/week2/extra.md) and add a GeoJSON with some other set of relevant information, you can search online for other GeoJSON datasets if you'd like.
+
+
 ## Submission
 
 - [Commit your changes to GitHub](../../labs/week1/3.md)

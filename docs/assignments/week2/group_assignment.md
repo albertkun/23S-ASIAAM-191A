@@ -19,12 +19,14 @@ Prepare a short memo (no more than two pages) for your project either using Goog
 
 - [https://docs.google.com/document/d/1OWUUxebPNsqw4K97gznvTkGLEr6QDAbXWqX2BGvernI](https://docs.google.com/document/d/1OWUUxebPNsqw4K97gznvTkGLEr6QDAbXWqX2BGvernI) | [Click here to copy](https://docs.google.com/document/d/1OWUUxebPNsqw4K97gznvTkGLEr6QDAbXWqX2BGvernI/copy)
 
-#### Samples from 2021 Spring
+#### Top Samples from previous years
 
+- Community-based project: [https://docs.google.com/document/d/1luEGoedbzhedIfqYMA7nWkhUxx3iNjDuX2HC2Sblv8w](https://docs.google.com/document/d/1luEGoedbzhedIfqYMA7nWkhUxx3iNjDuX2HC2Sblv8w)
 - Community-based project: [https://tinyurl.com/2s47hfwe](https://tinyurl.com/2s47hfwe)
+- Student-based project: [https://docs.google.com/document/d/1SDURCaoLo6TZAHLAzLEsBFkwoq1QmT54mR6YNdFi1fw](https://docs.google.com/document/d/1SDURCaoLo6TZAHLAzLEsBFkwoq1QmT54mR6YNdFi1fw)
 - Student-based project: [https://tinyurl.com/36rt9mm3](https://tinyurl.com/36rt9mm3)
 
 
 ## Submission
 
-Reply discussion post link for [Group Assignment #2](https://github.com/albertkun/22S-ASIAAM-191A/discussions/13)
+Reply discussion post link for [Group Assignment #2](https://github.com/albertkun/23S-ASIAAM-191A/discussions/13)
