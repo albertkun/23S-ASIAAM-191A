@@ -12,68 +12,68 @@ Head over to [GeoJSON.io](http://www.geojson.io/):
 
 Click on the ==marker :material-map-marker:== tool:
 
-![](./media/geojson1.png)
+![](../week3/media/geojson1.png)
 
 Click on a location of interest to you:
 
-![](./media/geojson2.png)
+![](../week3/media/geojson2.png)
 
 Switch to the Table view by clicking on ==:material-table: Table==:
 
-![](./media/geojson_table.png)
+![](../week3/media/geojson_table.png)
 
 Add a data column by clicking on ==:heavy_plus_sign: new column== :
 
-![](./media/geojson3.png)
+![](../week3/media/geojson3.png)
 
 Call it ==place== and click `OK`:
 
-![](./media/geojson4.png)
+![](../week3/media/geojson4.png)
 
 Click inside the ==`place`== column
 
-![](./media/geojson6.png)
+![](../week3/media/geojson6.png)
 
 Type in a description for the `place`, in this case I called it ==home==.
 
-![](./media/geojson_home.png){: style="max-width:150px"}
+![](../week3/media/geojson_home.png){: style="max-width:150px"}
 
 Zoom out by pressing the ==:heavy_minus_sign:== button or ++ minus ++ key:
 
-![](./media/geojson8.png)
+![](../week3/media/geojson8.png)
 
 Click the ==edit :material-square-edit-outline:== button:
 
-![](./media/geojson9.png)
+![](../week3/media/geojson9.png)
 
 Click on the marker and move it the adjust the location:
 
-![](./media/geojson9a.png)
+![](../week3/media/geojson9a.png)
 
 Click the  edit :material-square-edit-outline: button and then ==Save== to save your edits:
 
-![](./media/geojson10.png)
+![](../week3/media/geojson10.png)
 
 
 Add a new column called ==color==, to put some color to your map later.
 
-![](./media/geojson7a.png)
+![](../week3/media/geojson7a.png)
 
 When you are done, save your file by going to the top menu's ==Save== option:
 
-![](./media/geojson11.png)
+![](../week3/media/geojson11.png)
 
 Click ==GeoJSON==:
 
-![](./media/geojson12.png)
+![](../week3/media/geojson12.png)
 
 Download the file to your computer:
 
-![](./media/geojson13.png){: style="max-width:300px"}
+![](../week3/media/geojson13.png){: style="max-width:300px"}
 
 Copy the file into your project folder:
 
-![](./media/geojson15.png)
+![](../week3/media/geojson15.png)
 
 ### ⚽In-class Exercise #1 - Leaving  your mark(er) on the map!
 
