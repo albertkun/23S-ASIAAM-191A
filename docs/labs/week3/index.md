@@ -1,4 +1,4 @@
-# Here's GeoJSONny and buttons
+# Here's GeoJSONny and UX
 
 Adding functionality to our [Leaflet.js](https://www.leaflet.js) map!
 
@@ -51,7 +51,7 @@ Use the following template code or your lab assignment #2:
             <div id="the_map"></div>
         </div>
         <div id="footer">
-            Copyright(2022)
+            Copyright(2023)
         </div>
         <script src="js/init.js"></script>
     </body>

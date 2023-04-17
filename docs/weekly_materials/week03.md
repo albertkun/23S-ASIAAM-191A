@@ -3,16 +3,17 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |4/18|Ethical Software and Developing for Civil Society|Lecture|||
-|4/20|Here's GeoJSONny and our first user experience|Lab|||
+|4/20|Here's GeoJSONny and user experience|Lab|||
 
 ## Lecture
 
-- [Ethical Software and Developing for Civil Society](../materials/AA191_S_W3_Lecture_3.pdf)
+- Ethical Software and Developing for Civil Society
+<!-- - [Ethical Software and Developing for Civil Society](../materials/AA191_S_W3_Lecture_3.pdf) -->
 
 
 ## Lab
 
-- Here's GeoJSONny and our first user experience
+- Here's GeoJSONny and user experience
 
 ## Assignments
 
