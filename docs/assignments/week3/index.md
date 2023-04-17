@@ -3,6 +3,7 @@ hide:
   - tags
 tags:
   - Week 3
+  - Assignments
 ---
 # Week 3 Assignments List
 

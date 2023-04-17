@@ -16,3 +16,5 @@
 |1|Hello World (Wide) Web Development|Lab|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W1_Lab_1.pdf)|[Here](https://ucla.zoom.us/rec/share/5gRHDbfTvtad2Uj-j7pHeHPi8lZta-MGhzPFiPUfPtUgwN47qPEBCEZzsbdR1Tuk.aqmSjwYjSZHOybMP)|
 |2|Critical Cartography and Civil Society|Lecture|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W2_Lecture_2.pdf)|[Here]( https://ucla.zoom.us/rec/share/2iRJrQnpkW2eo5rxLlsm5taL6-mO9KZoAsZQ29vMYJLckYSq_ONYdFucRSIpnt0R.OLKUcYgneq9-3Pl-)|
 |2|JavaSCrypt of the Necrodancer|Lab|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W2_Lab_2.pdf)|[Here](https://ucla.zoom.us/rec/share/yKtTBUrwUMHQima3uJiI0R-E2j0FlZsLCIJC7-3049o14BfauAWZfs9Qp4pmGlbu.uDJo-NfMfZNLiRc1)|
+|3|Ethical Software and Developing for Civil Society|Lecture|||
+|3|Here's GeoJSONny and user experience|Lab|||

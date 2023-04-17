@@ -3,6 +3,7 @@ hide:
   - tags
 tags:
   - Week 1
+  - Assignments
 ---
 # Week 1 Assignments List
 

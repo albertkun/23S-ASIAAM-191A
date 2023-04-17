@@ -1,3 +1,9 @@
+---
+hide:
+  - tags
+tags:
+  - Lab 2
+---
 # JavaSCrypt of the Necrodancer and FUNctions
 
 Creating our first map with [Leaflet.js](https://www.leaflet.js) and learning to use JavaScript!
