@@ -1,0 +1,9 @@
+nav:
+    - Assignments List: index.md
+    - prelab.md
+    - reading.md
+    - thinking_cap.md
+    - lab_assignment.md
+    - ...
+
+title: Week 3

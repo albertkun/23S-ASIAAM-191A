@@ -27,7 +27,7 @@ The requirements are:
 - [Commit and publish your file to GitHub pages.](../../labs/week1/3.md#using-github-pages)
 
 - Find your `index.html` in the `week2` in GitHub Pages and copy the URL. It should look something like this:
-  - https://albertkun.github.io/22S-ASIAAM-191A-Assignments/week2/index.html
+  - https://albertkun.github.io/23S-ASIAAM-191A-Assignments/week2/index.html
 
 - Paste your link as a comment in the Discussion forum for Lab Assignment #2:
   - https://github.com/albertkun/23S-ASIAAM-191A/discussions/10 
