@@ -8,8 +8,6 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Tuesday 4/18|
-|[**How can we improve Critical Cartography?**](./week2/thinking_cap.md)|Thinking Cap|Tuesday 4/18|
 |[**Your First Web Map (for real!)**](./week2/lab_assignment.md)|Lab Assignment|Thursday 4/20|
 |[**Optional: Prelab**](./week3/prelab.md)|Prelab|Thursday 4/20|
 |[**Looking Beyond OpenSource**](./week3/reading.md)|Weekly Reading|Tuesday 4/25|
@@ -21,6 +19,8 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Tuesday 4/18|
+|[**How can we improve Critical Cartography?**](./week2/thinking_cap.md)|Thinking Cap|Tuesday 4/18|
 |[**Intro to Web Maps**](./week2/prelab.md)|Pre-lab|Thursday 4/13|
 |[**Simple Portfolio**](./week1/lab_assignment.md)|Lab Assignment|Thursday 4/13|
 |[**Repository and Readme**](./week1/group_assignment.md)|Group Assignment|Thursday 4/13|

@@ -2,13 +2,12 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/18|Ethical Software and Developing for Civil Society|Lecture|||
+|4/18|Ethical Software and Developing for Civil Society|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/HI7oTGGeDTQRm5xU3_f_YE17-ZoNoYY9EJAgH-QMIkRQO6uljN2odWoSudqT-PCI.hmSC8MupEX7-bI8P)|
 |4/20|Here's GeoJSONny and user experience|Lab|||
 
 ## Lecture
 
-- Ethical Software and Developing for Civil Society
-<!-- - [Ethical Software and Developing for Civil Society](../materials/AA191_S_W3_Lecture_3.pdf) -->
+- [Ethical Software and Developing for Civil Society](../materials/AA191_S_W3_Lecture_3.pdf)
 
 
 ## Lab
