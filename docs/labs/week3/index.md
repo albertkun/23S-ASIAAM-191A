@@ -3,6 +3,9 @@ hide:
   - tags
 tags:
   - Lab 3
+  - GeoJSON
+  - Buttons
+  - Event Listeners
 ---
 # A little UX/I(e) and Geo-J-cieON
 
