@@ -4,7 +4,7 @@ hide:
 tags:
   - Lab 3
 ---
-# Here's GeoJSONny and UX
+# A little UX/I(e) and Geo-J-cieON
 
 Adding functionality to our [Leaflet.js](https://www.leaflet.js) map!
 
