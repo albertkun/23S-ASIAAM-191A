@@ -1,8 +1,12 @@
 # ⭐Extra: Changing colors
 
-If you'd rather use icons then a circular color, then try to see if you can implement this code, be sure to have a custom icon ready!
+These are some extra tips for changing colors and icons in your map.
 
 ## Customizing Icons
+
+
+If you'd rather use icons then a circular color, then try to see if you can implement this code, be sure to have a custom icon ready!
+
 
 ```js title="js/init.js"
 function createCustomIcon (feature, latlng) {
