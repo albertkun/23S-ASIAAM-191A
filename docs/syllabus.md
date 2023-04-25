@@ -205,11 +205,11 @@ for academic honesty and integrity in your work.
 </tr>
 <tr class="even">
 <td>4</td>
-<td><strong>Developing for Civil Society</strong></td>
+<td><strong>Society, Technology, and Ethics</strong></td>
 </tr>
 <tr class="odd">
 <td>5</td>
-<td><strong>Society, Technology, and Ethics</strong></td>
+<td><strong>Developing for Civil Society</strong></td>
 </tr>
 <tr class="odd">
 <td>6</td>

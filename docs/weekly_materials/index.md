@@ -7,7 +7,7 @@
 |#1|[GIS, Data, and Ethics :link:](week01.md)|
 |#2|[Humanizing Technology :link:](week02.md)|
 |#3|[Open Source and Web Mapping :link:](week03.md)|
-
+|#4|[Science, Technology, and Ethics :link:](week04.md)|
 ## Course Materials
 
 |Week | Title | Content | Slides | Recording |
