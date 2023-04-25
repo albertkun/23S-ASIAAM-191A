@@ -19,4 +19,4 @@
 |2|JavaSCrypt of the Necrodancer|Lab|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W2_Lab_2.pdf)|[Here](https://ucla.zoom.us/rec/share/yKtTBUrwUMHQima3uJiI0R-E2j0FlZsLCIJC7-3049o14BfauAWZfs9Qp4pmGlbu.uDJo-NfMfZNLiRc1)|
 |3|Ethical Software and Developing for Civil Society|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/HI7oTGGeDTQRm5xU3_f_YE17-ZoNoYY9EJAgH-QMIkRQO6uljN2odWoSudqT-PCI.hmSC8MupEX7-bI8P)|
 |3|A little UX/I(e) and Geo-J-cieON|Lab|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/W95FOy-aIAfIX9s7w8QByGgwQYuDOCL6oty46qfAJghGVtQrW-dPV0mIuulKkDFj.wxe5sB0I0eiepMuh)|
-|4|Science, Technology, and Ethics|Lecture|||
+|4|Science, Technology, and Ethics|Lecture|[Here]()||

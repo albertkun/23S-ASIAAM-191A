@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/25|Connecting the dots of technology and ethics|Lecture|||
+|4/25|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/JuDRVgNRlBWQWCbCqt-PX1uOyUUvW7SoMB_s7ha1r1XzvusswfHwTZHtAdVGoZrV.qHlX2-Wnfw7y9Vtr)
 |4/27|TBD|Lab|||
 
 ## Lecture
