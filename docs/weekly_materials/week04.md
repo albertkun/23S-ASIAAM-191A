@@ -29,7 +29,7 @@ Instructions here:
 ### Due Tuesday 5/2
 
 - [**Technology and Ethics**](../assignments/week4/reading.md)
-- [Thinking Cap #4](../assignments/week4/thinking_cap.md)
+- [**What are your ethics with technology and society?**](../assignments/week4/thinking_cap.md)
 
 ### Due Thursday 5/4 or 5/11*
 
