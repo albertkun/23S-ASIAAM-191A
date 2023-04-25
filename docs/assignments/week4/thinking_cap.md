@@ -13,7 +13,7 @@ This weeks [readings](reading.md) will be helpful in forumlating a response.
 
 Post your thinking cap response and reply to others in this thread here:
 
-- [Thinking Cap #3 submission thread](https://github.com/albertkun/23S-ASIAAM-191A/discussions/14)
+- [Thinking Cap #4 submission thread](https://github.com/albertkun/23S-ASIAAM-191A/discussions/14)
 
 !!! caution "Reminders"
     - Extra credit is only available if you submit 1 day before the deadline (i.e. Sunday 4/10) at 2pm.
