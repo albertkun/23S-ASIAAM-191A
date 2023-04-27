@@ -116,3 +116,67 @@ fetch(`map.geojson`)
     })
 
 ```
+
+```js title="map.geojson" linenums="1"
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "home",
+        "color": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.29687953814576,
+          34.061455838557535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "work",
+        "color": "blue"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.43969437158387,
+          34.07271277905194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "old home",
+        "color": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.43848986633458,
+          34.05513005654072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "metro work",
+        "color": "blue"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23503623440803,
+          34.055738694402294
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
+```
