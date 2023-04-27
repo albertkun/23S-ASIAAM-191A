@@ -11,7 +11,7 @@ Date|Type|Description|Slides|Recording|
 
 ## Lab
 
-- [TBD](../labs/week4/index.md)
+- [Google FORMulating Community-Based Empowerment](../labs/week4/index.md)
 
 <!-- ## Group Exercise
 
@@ -25,6 +25,7 @@ Instructions here:
 ### Due Thursday 4/27
 
 - [Group Assignment #2](../assignments/week3/group_assignment.md)
+- [Lab Assignment #3](../assignments/week3/lab_assignment.md)
 
 ### Due Tuesday 5/2
 
