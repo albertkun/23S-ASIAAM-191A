@@ -49,7 +49,7 @@ Use the following template code or your lab assignment #3a or #3b:
             <div id="the_map"></div>
         </div>
         <div id="footer">
-            Copyright(2022)
+            Copyright(2023)
         </div>
         <script src="js/init.js"></script>
     </body>
