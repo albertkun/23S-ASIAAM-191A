@@ -9,7 +9,8 @@ Welcome to the course website where you can find all the material for the class.
 
 Description|Link
 --|--
-Pre-class Survey | [https://cloud.albertmaps.com/apps/forms/mDqcfgpGimwpC4Ap](https://cloud.albertmaps.com/apps/forms/mDqcfgpGimwpC4Ap)
+ Anonymous Feedback| [https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=0](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=0)
+Group Project Sheet|[https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=0](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=0)
 GitHub Discussions|[https://github.com/albertkun/23S-ASIAAM-191A/discussions](https://github.com/albertkun/23S-ASIAAM-191A/discussions)
 Discord Server|[Invite Link](https://discord.gg/awktuEcAqW)
 Online Office Hours|[https://calendly.com/aa191a/office-hours](https://calendly.com/aa191a/office-hours)
