@@ -15,4 +15,4 @@ Submit your survey as one group using this Google Form:
 - [https://forms.gle/yrKyrHaoAJoW9xbbA](https://forms.gle/yrKyrHaoAJoW9xbbA)
 
 
-Submit your revised memo on the following thread: [https://github.com/albertkun/22S-ASIAAM-191A/discussions/25](https://github.com/albertkun/22S-ASIAAM-191A/discussions/25)
+Submit your revised memo on the following thread: [https://github.com/albertkun/23S-ASIAAM-191A/discussions/25](https://github.com/albertkun/23S-ASIAAM-191A/discussions/25)
