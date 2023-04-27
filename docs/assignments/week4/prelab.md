@@ -3,7 +3,9 @@
 !!! information "⌛ Reading time ⌛"
     - 15 - 25 minutes
 
-We will be working with Google Forms this week, so please read the following to familiarize yourself with data. While we will not be doing participatory asset mapping, the second reading demonstrates important considerations in designing any participatory mapping activity. The optional reading is for those who have not used Google Forms before. 
+As we begin to work with Google Forms this week, the first reading is helpful for understanding survey data questions. The second reading demonstrates important considerations in designing any participatory mapping activity. 
+
+The third and optional reading is for those who have not used Google Forms before. 
 
 ## Readings
 
