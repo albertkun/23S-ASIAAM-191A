@@ -1,5 +1,6 @@
 nav:
     - Index: index.md
+    - Final Project Examples: final_project_examples.md
     - Submitting Thinking Caps: thinking_caps.md
     - Submitting Labs: submit.md
     - github_sign_up.md
