@@ -8,18 +8,17 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Thursday 4/27|
-|[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Thursday 4/27|
-|[**Prelab**](./week4/prelab.md)|Pre-lab|Thursday 4/27|
 |[**Technology and Ethics**](./week4/reading.md)|Weekly Reading|Tuesday 5/2|
 |[**What are your ethics with technology and society?**](./week4/thinking_cap.md)|Thinking Cap|Tuesday 5/2|
-|[**Survey**](./week4/group_assignment.md)|Group Assignment|Thursday 5/4|
-|[**Revision: Memo**](./week4/group_assignment.md)|Group Assignment|Thursday 5/4|
+|[**Survey and Memo Revision**](./week4/group_assignment.md)|Group Assignment|Thursday 5/4|
 
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Thursday 4/27|
+|[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Thursday 4/27|
+|[**Prelab**](./week4/prelab.md)|Pre-lab|Thursday 4/27|
 |[**Looking Beyond OpenSource**](./week3/reading.md)|Weekly Reading|Tuesday 4/25|
 |[**How are closed source tools harmful for civil society? What about open source tools?**](./week3/thinking_cap.md)|Thinking Cap|Tuesday 4/25|
 |[**Your First Web Map (for real!)**](./week2/lab_assignment.md)|Lab Assignment|Thursday 4/20|
