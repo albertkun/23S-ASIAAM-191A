@@ -32,6 +32,6 @@ Instructions here:
 - [**Technology and Ethics**](../assignments/week4/reading.md)
 - [**What are your ethics with technology and society?**](../assignments/week4/thinking_cap.md)
 
-### Due Thursday 5/4 or 5/11*
+### Due Thursday 5/11
 
 - [Lab Assignment #4](../assignments/week4/lab_assignment.md)
