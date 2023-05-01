@@ -29,4 +29,4 @@ Prepare a short memo (no more than two pages) for your project either using Goog
 
 ## Submission
 
-Reply discussion post link for [Group Assignment #2](https://github.com/albertkun/23S-ASIAAM-191A/discussions/13)
+Reply discussion post link for [Group Assignment #2](https://github.com/albertkun/23S-ASIAAM-191A/discussions/11)

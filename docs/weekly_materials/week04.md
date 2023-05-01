@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |4/25|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/JuDRVgNRlBWQWCbCqt-PX1uOyUUvW7SoMB_s7ha1r1XzvusswfHwTZHtAdVGoZrV.qHlX2-Wnfw7y9Vtr)
-|4/27|Google FORMulating Community-Based Empowerment|Lab|||
+|4/27|Google FORMulating Community-Based Empowerment|Lab|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/gbJsIs5TgJGX2a8htHv_XySl2XXybwf9dNg9bZ4Cqr3crgZEeQ2RFESctq5lN0M.HvOMXLjmBSiT7BlR)|
 
 ## Lecture
 
@@ -24,7 +24,7 @@ Instructions here:
 
 ### Due Thursday 4/27
 
-- [Group Assignment #2](../assignments/week3/group_assignment.md)
+- [Group Assignment #2](../assignments/week2/group_assignment.md)
 - [Lab Assignment #3](../assignments/week3/lab_assignment.md)
 
 ### Due Tuesday 5/2
@@ -32,6 +32,6 @@ Instructions here:
 - [**Technology and Ethics**](../assignments/week4/reading.md)
 - [**What are your ethics with technology and society?**](../assignments/week4/thinking_cap.md)
 
-### Due Thursday 5/11
+### Due Thursday 5/4
 
-- [Lab Assignment #4](../assignments/week4/lab_assignment.md)
+- [Group Assignment #3](../assignments/week4/group_assignment.md)

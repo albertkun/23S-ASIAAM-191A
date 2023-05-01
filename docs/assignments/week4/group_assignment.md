@@ -4,6 +4,11 @@
 
 Design a survey that will focus on the community voices for your project. As part of this assignment, your group must also check-in with me by the end of week 4.
 
+### Resouces
+
+Week 4's pre-lab on survey design will be helpful to reference:
+- |[**Prelab**](./week4/prelab.md)
+
 ## Submission
 
 ### Survey 
@@ -13,4 +18,4 @@ Submit your survey as one group using this Google Form:
 - [https://forms.gle/yrKyrHaoAJoW9xbbA](https://forms.gle/yrKyrHaoAJoW9xbbA)
 
 
-Submit your revised memo on the following thread: [https://github.com/albertkun/23S-ASIAAM-191A/discussions/25](https://github.com/albertkun/23S-ASIAAM-191A/discussions/25)
+Submit your revised memo on the following thread or via email: [https://github.com/albertkun/23S-ASIAAM-191A/discussions/16](https://github.com/albertkun/23S-ASIAAM-191A/discussions/16)
