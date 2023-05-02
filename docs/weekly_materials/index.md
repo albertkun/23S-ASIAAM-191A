@@ -8,7 +8,7 @@
 |#2|[Humanizing Technology :link:](week02.md)|
 |#3|[Open Source and Web Mapping :link:](week03.md)|
 |#4|[Science, Technology, and Ethics :link:](week04.md)|
-|#4|[Community Development for Civil Society :link:](week05.md)|
+|#5|[Community Development for Civil Society :link:](week05.md)|
 
 ## Course Materials
 
