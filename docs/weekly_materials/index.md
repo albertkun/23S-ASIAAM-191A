@@ -8,6 +8,7 @@
 |#2|[Humanizing Technology :link:](week02.md)|
 |#3|[Open Source and Web Mapping :link:](week03.md)|
 |#4|[Science, Technology, and Ethics :link:](week04.md)|
+|#4|[Community Development for Civil Society :link:](week05.md)|
 
 ## Course Materials
 
@@ -21,3 +22,4 @@
 |3|A little UX/I(e) and Geo-J-cieON|Lab|[Here](https://raw.githubusercontent.com/albertkun/23S-ASIAAM-191A/main/docs/materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/W95FOy-aIAfIX9s7w8QByGgwQYuDOCL6oty46qfAJghGVtQrW-dPV0mIuulKkDFj.wxe5sB0I0eiepMuh)|
 |4|Science, Technology, and Ethics|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/JuDRVgNRlBWQWCbCqt-PX1uOyUUvW7SoMB_s7ha1r1XzvusswfHwTZHtAdVGoZrV.qHlX2-Wnfw7y9Vtr)|
 |4|Google FORMulating Community Empowerment - 1|Lab|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/gbJsIs5TgJGX2a8htHv_XySl2XXybwf9dNg9bZ4Cqr3crgZEeQ2RFESctq5lN0M.HvOMXLjmBSiT7BlR)|
+|5|Connecting us with Community development|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/ga1w0kjcpau5YZauilOOfeDmnMLzfZWDMmPmlI-SwlV52OCdcF5RL7-i-86eH-XF.LAfIGt6BKMaWhibk)|

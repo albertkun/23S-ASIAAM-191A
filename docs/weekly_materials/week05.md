@@ -2,12 +2,12 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/2|Ethical Software and Developing for Civil Society|Lecture|||
+|5/2|Connecting us with Community development|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/ga1w0kjcpau5YZauilOOfeDmnMLzfZWDMmPmlI-SwlV52OCdcF5RL7-i-86eH-XF.LAfIGt6BKMaWhibk)|
 |5/4|Community-based Empowerment|Lab + Lecture|||
 
 ## Lecture
 
-- [Ethical Software and Developing for Civil Society](../materials/AA191_S_W4_Lecture_4.pdf)
+- [Connecting us with Community development](../materials/AA191_S_W5_Lecture_5.pdf)
 
 ### Visiting Voices: Nancy Yap and Farrah Su
 
