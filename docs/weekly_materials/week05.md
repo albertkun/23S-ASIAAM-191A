@@ -11,11 +11,11 @@ Date|Type|Description|Slides|Recording|
 
 ### Visiting Voices: Nancy Yap and Farrah Su
 
-![../media/nancyyap.png](../media/nancyyap.png){: style="max-width:500px"}
+![../media/nancyyap.png](../media/nancyyap.png){: style="max-width:250px"}
 
 Nancy Yap is the Executive Director of the [Center for Asian Americans United for Self Empowerment (CAUSE)](https://www.causeusa.org), a nonprofit organization that is committed to advancing the political and civic engagement of leaders in the Asian and Pacific Islander (API) community and President of the Arts District Little Tokyo Neighborhood Council and the Co-Founder of two programs in Little Tokyo, Community Feeding Community.
 
-![../media/farrahsu.jpg](../media/farrahsu.jpg){: style="max-width:500px"}
+![../media/farrahsu.jpg](../media/farrahsu.jpg){: style="max-width:250px"}
 
 Farrah Su is the Marketing and Communications Manager at CAUSE, where she has worked on mapping projects and other civic engagement initiatives and she also freelances as a photographer and filmmaker during her spare time.
 
