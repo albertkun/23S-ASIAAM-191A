@@ -1,3 +1,11 @@
+---
+hide:
+  - tags
+tags:
+  - Week 5
+  - CAUSE
+---
+
 # Week 5 - Community-based Empowerment
 
 Date|Type|Description|Slides|Recording|

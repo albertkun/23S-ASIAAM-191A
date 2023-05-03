@@ -1,3 +1,10 @@
+---
+hide:
+  - tags
+tags:
+  - Group Assignment 3
+---
+
 # Group Assignment 3 - Survey & Revision of Memo
 
 ## Due Thursday 5/9
