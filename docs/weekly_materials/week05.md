@@ -19,6 +19,11 @@ Nancy Yap is the Executive Director of the [Center for Asian Americans United fo
 
 Farrah Su is the Marketing and Communications Manager at CAUSE, where she has worked on mapping projects and other civic engagement initiatives and she also freelances as a photographer and filmmaker during her spare time.
 
+### Visiting Voice Presentation Slides
+
+[Web Development and GIS x CAUSE](../materials/Web%20Development%20and%20GIS%20x%20CAUSE.pdf)
+
+
 ## Lab
 
 - [Google FORMulating Community-Based Empowerment](../labs/week5/index.md)
@@ -30,7 +35,7 @@ Farrah Su is the Marketing and Communications Manager at CAUSE, where she has wo
 - [**Technology and Ethics**](../assignments/week4/reading.md)
 - [**What are your ethics with technology and society?**](../assignments/week4/thinking_cap.md)
 
-### Due Thursday 5/4
+### Due Thursday 5/9
 
 - [Group Assignment #3 Survey](../assignments/week4/group_assignment.md)
 

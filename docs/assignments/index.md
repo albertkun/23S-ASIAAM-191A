@@ -8,14 +8,15 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Technology and Ethics**](./week4/reading.md)|Weekly Reading|Tuesday 5/2|
-|[**What are your ethics with technology and society?**](./week4/thinking_cap.md)|Thinking Cap|Tuesday 5/2|
-|[**Survey and Memo Revision**](./week4/group_assignment.md)|Group Assignment|Thursday 5/4|
+|[**Survey and Memo Revision**](./week4/group_assignment.md)|Group Assignment|Tuesday 5/9|
 |[**Loops and APIs**](./week5/lab_assignment.md)|Lab Assignment|Thursday 5/11|
+
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Technology and Ethics**](./week4/reading.md)|Weekly Reading|Tuesday 5/2|
+|[**What are your ethics with technology and society?**](./week4/thinking_cap.md)|Thinking Cap|Tuesday 5/2|
 |[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Thursday 4/27|
 |[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Thursday 4/27|
 |[**Prelab**](./week4/prelab.md)|Pre-lab|Thursday 4/27|
