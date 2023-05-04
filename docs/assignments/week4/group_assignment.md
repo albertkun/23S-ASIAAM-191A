@@ -14,7 +14,7 @@ Design a survey that will focus on the community voices for your project. As par
 ### Resouces
 
 Week 4's pre-lab on survey design will be helpful to reference:
-- |[**Prelab**](./week4/prelab.md)
+- |[**Prelab**](./prelab.md)
 
 ## Submission
 

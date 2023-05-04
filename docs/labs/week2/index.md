@@ -15,6 +15,12 @@ Creating our first map with [Leaflet.js](https://www.leaflet.js) and learning to
     - Understand how JavaScript works with HTML and CSS
     - Understand how JavaScript variables, functions, methods work together
 
+## Lab outline
+
+1. [JavaScript variables](./1.md)
+2. [Web mapping with Leaflet.js](./2.md)
+3. [JavaScript functions](./3.md)
+
 ## Starting Template Code for lab #2
 
 Use the following template code or your lab assignment #1:

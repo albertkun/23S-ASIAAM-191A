@@ -2,7 +2,7 @@
 
 ## Due 5/11
 
-In this week's lab, we learned how to loop through data and connect to an API. Your task is to create a mini-version of the final group project for the class that intakes data and maps it.
+In this week's lab, we learned how to loop through data and connect to an API. Your task is to create a mini-version of the final group project for the class that takes in data and maps it.
 
 The requirements are:
 
@@ -19,6 +19,6 @@ The requirements are:
 
 - Commit your changes to GitHub
 - Find your `index.html` in the `Week_05` folder and copy the URL. It should look something like this:
-  - https://albertkun.github.io/22S-ASIAAM-191A-Assignments/Week_05/index.html
+  - https://albertkun.github.io/23S-ASIAAM-191A-Assignments/Week_05/index.html
 - Paste your link as a comment in the Discussion forum for Lab Assignment #4:
-  - https://github.com/albertkun/22S-ASIAAM-191A/discussions/27
+  - https://github.com/albertkun/23S-ASIAAM-191A/discussions/18

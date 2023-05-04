@@ -17,6 +17,13 @@ tags:
     The [pre-lab](../../assignments/week1/prelab) must completed before attempting this lab.
 
 
+### Lab outline
+
+1. [Using VS Code](./0.md)
+2. [Writing HTML](./1.md)
+3. [Writing CSS](./2.md)
+4. [Publishing with GitHub Pages](./3.md)
+
 This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to host it using GitHub pages.
  
 For the extra lab (and extra credit), you can add a map using the [Leaflet JS library](https://www.leafletjs.com/), but we will cover that in Lab #2.

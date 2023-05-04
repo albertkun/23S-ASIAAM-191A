@@ -16,6 +16,10 @@ Adding a Google Form to our mapplication!
     - Embed a Google Form into a website using an iFrame
     - Implement a trigger for geocoding "location" data in Google Sheets
 
+## Lab outline
+
+1. [Styling GeoJSONs](./1.md)
+
 ## Starting template code for lab #4
 
 Use the following template code or your lab assignment #3a or #3b:
