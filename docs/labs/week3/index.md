@@ -18,6 +18,14 @@ Adding functionality to our [Leaflet.js](https://www.leaflet.js) map!
     - Understand how JavaScript works with HTML and CSS
     - Understand how JavaScript variables, functions, methods work together
 
+
+## Lab Outline
+
+1. [Event listeners](1.md)
+2. [Creating a GeojSON](2.md)
+3. [Fetch and then statements](3.md)
+
+
 ## Starting Template Code for lab #3
 
 Use the following template code or your lab assignment #2:
