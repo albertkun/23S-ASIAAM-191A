@@ -11,7 +11,7 @@ tags:
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |5/2|Connecting us with Community development|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/ga1w0kjcpau5YZauilOOfeDmnMLzfZWDMmPmlI-SwlV52OCdcF5RL7-i-86eH-XF.LAfIGt6BKMaWhibk)|
-|5/4|Community-based Empowerment|Lab + Lecture|||
+|5/4|Loops and Google FORMulating Data|Lab + Lecture|||
 
 ## Lecture
 
@@ -44,6 +44,7 @@ Farrah Su is the Marketing and Communications Manager at CAUSE, where she has wo
 - [**What are your ethics with technology and society?**](../assignments/week4/thinking_cap.md)
 
 ### Due Thursday 5/9
+## Due Thursday 5/4
 
 - [Group Assignment #3 Survey](../assignments/week4/group_assignment.md)
 
