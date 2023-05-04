@@ -5,16 +5,9 @@ tags:
   - Lab 4
 ---
 
-# Google FORMulating Community-Based Empowerment
+# GeoJSON Styling
 
 Adding a Google Form to our mapplication!
-
-![](./media/intro.png){: style="max-width:300px"}
-
-!!! tldr "Goals"
-    - Create a Google Form with meaningful questions
-    - Embed a Google Form into a website using an iFrame
-    - Implement a trigger for geocoding "location" data in Google Sheets
 
 ## Lab outline
 

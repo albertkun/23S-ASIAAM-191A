@@ -5,6 +5,9 @@ Adding the data from our survey into our mapplication!
 ![](./media/intro.png){: style="max-width:300px"}
 
 !!! tldr "Goals"
+    - Create a Google Form with meaningful questions
+    - Embed a Google Form into a website using an iFrame
+    - Implement a trigger for geocoding "location" data in Google Sheets
     - Replace our GeoJSON with data from a Google Sheet
     - Be able to use loops and conditional statements in JavaScript
     - Understand what an API is
