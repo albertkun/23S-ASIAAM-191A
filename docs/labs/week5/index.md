@@ -8,7 +8,7 @@ Adding the data from our survey into our mapplication!
     - Create a Google Form with meaningful questions
     - Embed a Google Form into a website using an iFrame
     - Implement a trigger for geocoding "location" data in Google Sheets
-    - Replace our GeoJSON with data from a Google Sheet
+    - Replace our `fetch` GeoJSON with data from a Google Sheet using `papa parse`
     - Be able to use loops and conditional statements in JavaScript
     - Understand what an API is
     - Add data from a Google Sheet into a website
@@ -24,7 +24,7 @@ Adding the data from our survey into our mapplication!
 Start by creating a `week5` folder in your lab assignments repo.
 
 !!! done "Get ahead start"
-    If you finished `lab 3`, you can also copy the contents of your `week3` folder and skip the following setup section.
+    You can also copy the contents of your Lab Assignment's `week3` folder and skip the following setup section.
 
 ## Starting template code for lab #5
 
