@@ -8,10 +8,9 @@ Adding the data from our survey into our mapplication!
     - Create a Google Form with meaningful questions
     - Embed a Google Form into a website using an iFrame
     - Implement a trigger for geocoding "location" data in Google Sheets
+    - Understand what an API
     - Replace our `fetch` GeoJSON with data from a Google Sheet using `papa parse`
-    - Be able to use loops and conditional statements in JavaScript
-    - Understand what an API is
-    - Add data from a Google Sheet into a website
+    - Learn to use `for-loops` in JavaScript
 
 ## Lab outline
 
