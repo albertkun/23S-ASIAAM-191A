@@ -1,4 +1,4 @@
-# Loops and APIs
+# Overview - Google Forms, Loops, and APIs
 
 Adding the data from our survey into our mapplication!
 
@@ -16,7 +16,7 @@ Adding the data from our survey into our mapplication!
 ## Lab outline
 
 1. [Creating a Google Form](./1.md)
-2. [Refactoring our code](./2.md)
+2. [Refactoring our JavaScript and CSS](./2.md)
 3. [Geocoding with Google Sheets](./3.md)
 4. [Connecting to our Google Sheet with `papa parse`](./4.md)
 5. [Looping through our data and adding it to our map](./5.md)
