@@ -11,7 +11,7 @@ tags:
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |5/2|Connecting us with Community development|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/ga1w0kjcpau5YZauilOOfeDmnMLzfZWDMmPmlI-SwlV52OCdcF5RL7-i-86eH-XF.LAfIGt6BKMaWhibk)|
-|5/4|Loops and Google FORMulating Data|Lab + Lecture|||
+|5/4|Loops and Google FORMulating Data|Lab + Lecture|[Here](../materials/AA191_S_W5_Lab_5.pdf)|[Here](https://ucla.zoom.us/rec/share/Sn5aSR88t_-PauENHTZmEIZS4UU0h3wTl-4qb3JISpImdOarl5mskQP_ckUjRBAe.LGZCVI5hJ_8Nwl9-)|
 
 ## Lecture
 
