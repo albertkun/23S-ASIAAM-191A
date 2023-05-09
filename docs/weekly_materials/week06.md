@@ -38,15 +38,18 @@ Email: [yohman@gmail.com](mailto:yohman@gmail.com) -->
 
 - [Survey](../assignments/week4/group_assignment.md)
 - [Memo Revision](../assignments/week4/group_assignment.md)
-  - [Submit using this Google form](https://forms.gle/8TU2Hj8o6J7UYjZ7A)!!
+  - [Submit using this Google form](https://forms.gle/yrKyrHaoAJoW9xbbA)!!
 
 
-### Due Tuesday 5/18
+### Due Tuesday 5/16
 
 - [Lab Assignment #4](../assignments/week5/lab_assignment.md)
-- [**Design Justice**](../assignments/week5/reading.md)
+- [**Weekly Reading: Design Justice**](../assignments/week5/reading.md)
 - [Thinking Cap #5](../assignments/week6/thinking_cap.md)
 
-### Due Thursday 5/20
+### Due Thursday 5/18
 - [Lab Assignment #5](../assignments/week6/lab_assignment.md)
+
+### Due Tuesday 5/23
+- [Group Assignment #4](../assignments/week6/group_assignment.md)
 
