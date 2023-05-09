@@ -9,7 +9,10 @@ tags:
 |Assignment|Type|Due|
 |-----------|----|---|
 |[**Survey and Memo Revision**](./week4/group_assignment.md)|Group Assignment|Tuesday 5/9|
-|[**Loops and APIs**](./week5/lab_assignment.md)|Lab Assignment|Thursday 5/11|
+|[**CSS and CSS Grid Prelab**](./week6/prelab.md)|Pre-lab|Thursday 5/11|
+|[**Loops and APIs**](./week5/lab_assignment.md)|Lab Assignment|Tuesday 5/16|
+|[**CSS Design Decisions**](./week6/lab_assignment.md)|Lab Assignment|Thursday 5/18|
+
 
 ## Past Assignments
 

@@ -9,6 +9,7 @@
 |#3|[Open Source and Web Mapping :link:](week03.md)|
 |#4|[Science, Technology, and Ethics :link:](week04.md)|
 |#5|[Community Development for Civil Society :link:](week05.md)|
+|#6|[Human-Centered Design :link:](week06.md)|
 
 ## Course Materials
 
@@ -23,3 +24,4 @@
 |4|Science, Technology, and Ethics|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/JuDRVgNRlBWQWCbCqt-PX1uOyUUvW7SoMB_s7ha1r1XzvusswfHwTZHtAdVGoZrV.qHlX2-Wnfw7y9Vtr)|
 |4|Google FORMulating Community Empowerment - 1|Lab|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/gbJsIs5TgJGX2a8htHv_XySl2XXybwf9dNg9bZ4Cqr3crgZEeQ2RFESctq5lN0M.HvOMXLjmBSiT7BlR)|
 |5|Connecting us with Community development|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/ga1w0kjcpau5YZauilOOfeDmnMLzfZWDMmPmlI-SwlV52OCdcF5RL7-i-86eH-XF.LAfIGt6BKMaWhibk)|
+<!-- |6|Lab #5 wrap-up & Designing for Civil Society|Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](httpszoom) -->
