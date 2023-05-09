@@ -24,4 +24,5 @@
 |4|Science, Technology, and Ethics|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/JuDRVgNRlBWQWCbCqt-PX1uOyUUvW7SoMB_s7ha1r1XzvusswfHwTZHtAdVGoZrV.qHlX2-Wnfw7y9Vtr)|
 |4|Google FORMulating Community Empowerment - 1|Lab|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/gbJsIs5TgJGX2a8htHv_XySl2XXybwf9dNg9bZ4Cqr3crgZEeQ2RFESctq5lN0M.HvOMXLjmBSiT7BlR)|
 |5|Connecting us with Community development|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/ga1w0kjcpau5YZauilOOfeDmnMLzfZWDMmPmlI-SwlV52OCdcF5RL7-i-86eH-XF.LAfIGt6BKMaWhibk)|
+|5|Loops and Google FORMulating Data|Lab + Lecture|[Here](../materials/AA191_S_W5_Lab_5.pdf)|[Here](https://ucla.zoom.us/rec/share/Sn5aSR88t_-PauENHTZmEIZS4UU0h3wTl-4qb3JISpImdOarl5mskQP_ckUjRBAe.LGZCVI5hJ_8Nwl9-)|
 <!-- |6|Lab #5 wrap-up & Designing for Civil Society|Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](httpszoom) -->
