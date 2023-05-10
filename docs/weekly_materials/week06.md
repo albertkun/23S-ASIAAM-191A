@@ -27,9 +27,9 @@ Instructions here:
 
 [Yoh Kawano](https://www.yohman.com) is a digital humanist, Lead Computation Scientist at UCLA's [Institute for Digital Research and Technology](https://idre.ucla.edu/people/yoh-kawano), and associate professor at [Reitaku University Japan](https://www.reitaku-u.ac.jp/about/teachers/1776447/)(Japanese). His community empowerment is on narratives in Japan’s Fukushima prefecture following the 2011 Tsunami.
 
-<!-- You can watch his film [here](https://filmfreeway.com/HumanError).
+<!-- You can watch his film [here](https://filmfreeway.com/HumanError). -->
 
-Email: [yohman@gmail.com](mailto:yohman@gmail.com) -->
+Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 
 ## Assignments
 
@@ -38,6 +38,7 @@ Email: [yohman@gmail.com](mailto:yohman@gmail.com) -->
 - [Survey](../assignments/week4/group_assignment.md)
 - [Memo Revision](../assignments/week4/group_assignment.md)
   - [Submit using this Google form](https://forms.gle/yrKyrHaoAJoW9xbbA)!!
+- [CSS Pre-lab](../assignments/week6/prelab.md)
 
 
 ### Due Tuesday 5/16
