@@ -2,13 +2,12 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/9|Lab #5 wrap-up & Designing for Civil Society|Lab/Lecture|||
+|5/9|Lab #5 wrap-up & Designing for Civil Society|Lab/Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](https://ucla.zoom.us/rec/share/d54QT7Kmhi-lLusqvbwUpcf7a75LS-Fvu07kcFYd7EdNrdITizYlbA1g1LTOaOjW.8IQuOEHLbDfvFz0D)|
 |5/11|Design DeciCSSions|Lab|||
 
 ## Lecture
 
-- Lab #5 wrap-up & Designing for Civil Society
-<!-- - [Designing for Civil Society](../materials/AA191_S_W6_Lecture_6.pdf) -->
+- [Lab #5 wrap-up & Designing for Civil Society](../materials/AA191_S_W6_Lecture_6.pdf)
 
 
 ## Lab

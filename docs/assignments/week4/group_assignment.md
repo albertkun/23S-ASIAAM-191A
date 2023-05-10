@@ -7,7 +7,7 @@ tags:
 
 # Group Assignment 3 - Survey & Revision of Memo
 
-## Due Thursday 5/9
+## Due Thursday 5/11
 
 Design a survey that will focus on the community voices for your project. As part of this assignment, your group must also check-in with me by the end of week 4.
 
