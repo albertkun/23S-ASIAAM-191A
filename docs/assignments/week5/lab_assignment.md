@@ -9,6 +9,7 @@ The requirements are:
 - Use any type of [for-loop](https://www.w3schools.com/js/js_loop_for.asp) within a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) that adds API data from your Google Spreadsheet form.
 - Add data from Google Spreadsheets into your map using PapaParse
 - Add a pop-up with at least 2 fields from the Google Form.
+- **Note: **Your Google Form CANNOT be the same topic as the lab (COVID Vaccination)
 
 ## Extra credit
 
