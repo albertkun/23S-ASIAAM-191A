@@ -39,22 +39,24 @@ The wireframe must include the following:
 
 ![Example Wireframe](media/wireframe.png)
 
-## Select examples from 2021
+## Select examples
 
 ### Survey Diagram
 
 - [Reimagining 6th Street Survey Diagram](https://github.com/albertkun/21S-ASIAAM-191A/files/6431769/Diagram.pdf)
 - [Bruins Mental Health Project](https://github.com/albertkun/21S-ASIAAM-191A/files/6436337/surveydiagram.pdf)
 - [Migrant Justice](https://github.com/albertkun/21S-ASIAAM-191A/files/6436697/Migrant.Justice.Wireframe.pdf)
+- [UCLA Health](https://github.com/albertkun/22S-ASIAAM-191A/files/8675478/Untitled_Artwork.pdf)
 
 ### Wireframe
 
 - [Reimagining 6th Wireframe.pdf](https://github.com/albertkun/21S-ASIAAM-191A/files/6431766/Reimagining.6th.Wireframe.pdf)
 - [Bruins Mental Health Project](https://github.com/albertkun/21S-ASIAAM-191A/files/6436340/wireframe.pdf)
 - [Migrant Justice](https://github.com/albertkun/21S-ASIAAM-191A/files/6436698/Migrant.Justice.Diagram.pdf)
+- [UCLA Health](https://github.com/albertkun/22S-ASIAAM-191A/files/8675475/Note.May.11.2022.pdf)
 
 
 ## Submission
 
 Have a group member comment on the following thread with links to the diagrams/photos:
-https://github.com/albertkun/22S-ASIAAM-191A/discussions/31
+https://github.com/albertkun/23S-ASIAAM-191A/discussions/21

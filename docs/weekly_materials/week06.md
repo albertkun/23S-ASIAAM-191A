@@ -21,7 +21,7 @@ Instructions here:
 
 ### Visiting Voice: Yoh Kawano
 
-![../media/yohkawano.jpg](../media/yohkawano.jpg){: style="max-width:500px"}
+![../media/yohkawano.jpg](../media/yohkawano.jpg){: style="max-width:350px"}
 
 [Yoh Kawano](https://www.yohman.com) is a digital humanist, Lead Computation Scientist at UCLA's [Institute for Digital Research and Technology](https://idre.ucla.edu/people/yoh-kawano), and associate professor at [Reitaku University Japan](https://www.reitaku-u.ac.jp/about/teachers/1776447/)(Japanese). His community empowerment is on narratives in Japan’s Fukushima prefecture following the 2011 Tsunami.
 
