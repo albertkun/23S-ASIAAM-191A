@@ -26,4 +26,4 @@
 |5|Connecting us with Community development|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/ga1w0kjcpau5YZauilOOfeDmnMLzfZWDMmPmlI-SwlV52OCdcF5RL7-i-86eH-XF.LAfIGt6BKMaWhibk)|
 |5|Loops and Google FORMulating Data|Lab + Lecture|[Here](../materials/AA191_S_W5_Lab_5.pdf)|[Here](https://ucla.zoom.us/rec/share/Sn5aSR88t_-PauENHTZmEIZS4UU0h3wTl-4qb3JISpImdOarl5mskQP_ckUjRBAe.LGZCVI5hJ_8Nwl9-)|
 |6|Lab #5 wrap-up & Designing for Civil Society|Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](https://ucla.zoom.us/rec/share/d54QT7Kmhi-lLusqvbwUpcf7a75LS-Fvu07kcFYd7EdNrdITizYlbA1g1LTOaOjW.8IQuOEHLbDfvFz0D)
-|6|Design DeciCSSions|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/0kAcpqpW-Azx1bmSkq-sH8kygkCdnmhsrFijlrHyXj4XY8IaSqqt6jgYPojXz5k.vY_O-Y5TDZfL3fYn)|
+|6|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/0kAcpqpW-Azx1bmSkq-sH8kygkCdnmhsrFijlrHyXj4XY8IaSqqt6jgYPojXz5k.vY_O-Y5TDZfL3fYn)|
