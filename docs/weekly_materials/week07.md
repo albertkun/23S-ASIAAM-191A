@@ -9,39 +9,35 @@ Date|Type|Description|Slides|Recording|
 
 ## Lecture
 
-- [Putting the “us” in Design JUStice](../materials/AA191_S_W7_Lecture_7.pdf)
+- Putting the “us” in Design JUStice
+<!-- - [Putting the “us” in Design JUStice](../materials/AA191_S_W7_Lecture_7.pdf) -->
 
 ### Visiting Voice: Joyce Nguy
 
-![../media/joycenguy.jpg](../media/joycenguy.jpg){: style="max-width:500px"}
+![../media/joycenguy.jpg](../media/joycenguy.jpg){: style="max-width:300px"}
 
 Joyce Nguy is a first-generation PhD student and Cota-Robles Fellow in the department of political science at the University of California, Los Angeles. She has worked on data for [UCLA MAAPP](https://uclamaapp.org/) and her current research focuses broadly on immigrant political socialization and Asian American political behavior. Passionate about creating space for diverse voices in the political science field, she hopes to pursue a career in academia, and serve as a mentor for other first-generation emerging scholars.
 
 ## Lab
 
-- [Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)
+- Conditionals, Map Layers, and Visual Design
+<!-- - [Conditionals, Map Layers, and Visual Design](../labs/week7/index.md) -->
 
 ## Assignments
 
-### Due Tuesday 5/11
-
-
-### Due Tuesday 5/11
+### Due Thursday 5/18
 
 - [Lab Assignment #5](../assignments/week6/lab_assignment.md)
-
-
 
 ### Due Tuesday 5/23
 - [Survey Diagram and Wireframe](../assignments/week6/group_assignment.md)
 - [**Design Justice**](../assignments/week7/reading.md)
 - [Thinking Cap #5](../assignments/week7/thinking_cap.md)
 - Memo Revision #3 (email to submit)
-  
+
 ### Due Thursday 5/25
-
 - [Lab Assignment #6](../assignments/week7/lab_assignment.md)
-
-
+- Survey Revisions
+  
 #### Readings:
 1. [Dencik, L., Redden, J., and Treré, E. (2019) Exploring Data Justice: Conceptions, Applications and Directions](../materials/readings/DataJustice.pdf)
