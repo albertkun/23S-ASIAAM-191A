@@ -2,21 +2,23 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/16|Putting the “us” in Design JUStice|Lecture|||
-<!-- |5/16|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)| -->
+|5/16|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|
 |5/18|Conditionals, Map Layers, and Visual Design|Lab/Lecture|||
 <!-- |5/18|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lab|[Here](../materials/AA191_S_W7_Lab_7.pdf)|[Here](https://tinyurl.com/mr2rfcvj)| -->
 
 ## Lecture
 
-- Putting the “us” in Design JUStice
-<!-- - [Putting the “us” in Design JUStice](../materials/AA191_S_W7_Lecture_7.pdf) -->
+- [Putting the “us” in Design JUStice](../materials/AA191_S_W7_Lecture_7.pdf)
 
 ### Visiting Voice: Joyce Nguy
 
 ![../media/joycenguy.jpg](../media/joycenguy.jpg){: style="max-width:300px"}
 
 Joyce Nguy is a first-generation PhD student and Cota-Robles Fellow in the department of political science at the University of California, Los Angeles. She has worked on data for [UCLA MAAPP](https://uclamaapp.org/) and her current research focuses broadly on immigrant political socialization and Asian American political behavior. Passionate about creating space for diverse voices in the political science field, she hopes to pursue a career in academia, and serve as a mentor for other first-generation emerging scholars.
+
+- [Joyce's Slides](https://www.canva.com/design/DAFi941R8-Y/n_R3WQgO773E4yIPn9Uv5g/view?utm_content=DAFi941R8-Y&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+
+- Contact: [joycenguy@g.ucla.edu](mailto:joycenguy@g.ucla.edu)
 
 ## Lab
 
