@@ -10,6 +10,13 @@ Adding the data from our survey into our mapplication!
 
 Today's lab will cover how to put your data in other places besides just the map and work with CSS Grid layouts.
 
+## Lab outline
+
+1. [Accessing our Google Form Data with Functions](./1.md)
+2. [Designing and debugging with CSS Grid](./2.md)
+3. [Alternative CSS Grid Layouts](./3.md)
+
+
 Start by creating a `week6` folder in your lab assignments repo.
 
 !!! done "Get ahead start"

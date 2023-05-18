@@ -2,7 +2,9 @@
 
 ### Due 5/25
 
-Using your assignment from `week 6`, categorize your survey data to convey a message or theme about your map. **Note**: You will need a non-open-ended question in your survey to make this task easier.
+Using your assignment from `week 6`, categorize your survey data to convey a message or theme about your map. 
+
+**Note**: You will need a closed-ended question (multiple-choice) in your survey to make this task easier.
 
 ### Requirements
 
