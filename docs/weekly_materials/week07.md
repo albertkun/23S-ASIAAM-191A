@@ -22,8 +22,7 @@ Joyce Nguy is a first-generation PhD student and Cota-Robles Fellow in the depar
 
 ## Lab
 
-- Conditionals, Map Layers, and Visual Design
-<!-- - [Conditionals, Map Layers, and Visual Design](../labs/week7/index.md) -->
+- [Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)
 
 ## Assignments
 
