@@ -8,7 +8,6 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-
 |[**Data Justice**](./week7/reading.md)|Weekly Reading|Tuesday 5/23|
 |[**Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Thursday 5/25||[**The connection between Data Justice, Design Justice, and us**](./week7/thinking_cap.md)|Thinking Cap|Tuesday 5/23|
 |[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Thursday 5/25|
