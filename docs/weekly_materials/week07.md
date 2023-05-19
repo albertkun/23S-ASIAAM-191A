@@ -3,8 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |5/16|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|
-|5/18|Conditionals, Map Layers, and Visual Design|Lab/Lecture|||
-<!-- |5/18|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lab|[Here](../materials/AA191_S_W7_Lab_7.pdf)|[Here](https://tinyurl.com/mr2rfcvj)| -->
+|5/18|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lecture|[Here](../materials/AA191_S_W7_Lab_7.pdf)|[Here](https://ucla.zoom.us/rec/share/SG7BpJVhA_t5EzSdAyrNb_3iOTWRuURTda6ZwPvRKrAHaD6NsFf3aH68bsHTxcpY.0hK_0Yqc4Z0SncB4)|
 
 ## Lecture
 

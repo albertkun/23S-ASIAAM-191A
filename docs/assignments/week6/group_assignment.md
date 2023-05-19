@@ -1,6 +1,6 @@
 # Group Assignment 4 - Survey Diagram and Wireframe
 
-## Due 5/18
+## Due 5/25
 
 With the survey and memo drafted, we can now make sure that our survey fits our goals set out in the memo and think about how the final application will look. Revising your survey is also an optional part of this assignment.
 
