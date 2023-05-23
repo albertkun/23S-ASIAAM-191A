@@ -11,6 +11,7 @@
 |#5|[Community Development for Civil Society :link:](week05.md)|
 |#6|[Human-Centered Design :link:](week06.md)|
 |#7|[Our roles as facilitators :link:](week07.md)|
+|#8|[Mentorship and collaboration :link:](week08.md)|
 
 ## Course Materials
 
