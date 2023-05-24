@@ -2,12 +2,12 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/23|Working together towards social change|Lab/Lecture|||
+|5/23|Working together towards social change|Lab/Lecture|[Here](../materials/AA191_S_W8_Lecture_8.pdf)|[Here](https://ucla.zoom.us/rec/share/JlBcOaKRqpUOdLFl9xXw-Pz0nuT1DO2qJUGzJZ6tuLcLgoMXm63mj_LuK_ewqXJv.DTJA000eK5HgwsGi)|
 |5/25|Collaborating with GitHub and plugins|Lab|||
 
 ## Lecture
 
-- Working together towards social change
+- [Working together towards social change](../materials/AA191_S_W8_Lecture_8.pdf)
 
 
 ### Visiting Voice: Nina Kin

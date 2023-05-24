@@ -8,16 +8,17 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Data Justice**](./week7/reading.md)|Weekly Reading|Tuesday 5/23|
-[**The connection between Data Justice, Design Justice, and us**](./week7/thinking_cap.md)|Thinking Cap|Tuesday 5/23|
+|[**In-Class Thinking Cap**](./week8/thinking_cap.md)|Thinking Cap|Tuesday 5/30|
 |[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Thursday 5/25|
 |[**Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Thursday 5/25|
-
+|[**Rough Draft**](./week8/group_assignment.md)|Group Assignment|Thursday 6/1|
 
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Data Justice**](./week7/reading.md)|Weekly Reading|Tuesday 5/23|
+[**The connection between Data Justice, Design Justice, and us**](./week7/thinking_cap.md)|Thinking Cap|Tuesday 5/23|
 |[**CSS Design Decisions**](./week6/lab_assignment.md)|Lab Assignment|Thursday 5/18|
 |[**Survey and Memo Revision**](./week4/group_assignment.md)|Group Assignment|Thursday 5/11|
 |[**CSS and CSS Grid Prelab**](./week6/prelab.md)|Pre-lab|Thursday 5/11|
