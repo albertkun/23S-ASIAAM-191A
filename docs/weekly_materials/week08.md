@@ -21,5 +21,5 @@ Contact: [KinN@metro.net](mailto:KinN@metro.net)
 ## Lab
 
 - [Working together with GitHub and plugins](../labs/week8/index.md)
-- Group Surveys
-  - Remember to take each survey as a persona (if applicable) and make sure you take it 3 times total. If your group has 3 people, then everyone just needs to take the survey once.
+- [Group Surveys](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=1286602102)
+  - Remember to take each survey as the memo's persona (or as yourself if it's applicable) and make sure as a group you take it 3 times total. If your group has 3 people, then everyone just needs to take the survey once.
