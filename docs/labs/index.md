@@ -9,6 +9,7 @@
 |#5|[Google FORMulating Community-Based Empowerment](week5/index.md)|JS, CSS|
 |#6|[Design DeciCSSions](week6/index.md)|JS, CSS|
 |#7|[Conditionals, Map Layers, and Visual Design](week7/index.md)|JS, CSS|
+|#8|[Collaborating with GitHub and Plugins](week8/index.md)|Git,JS|
 
 !!! warning "Remember!"
     Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
