@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |5/23|Working together towards social change|Lab/Lecture|[Here](../materials/AA191_S_W8_Lecture_8.pdf)|[Here](https://ucla.zoom.us/rec/share/JlBcOaKRqpUOdLFl9xXw-Pz0nuT1DO2qJUGzJZ6tuLcLgoMXm63mj_LuK_ewqXJv.DTJA000eK5HgwsGi)|
-|5/25|Collaborating with GitHub and plugins|Lab|||
+|5/25|Collaborating with GitHub and plugins|Lab|[Here](../materials/AA191_S_W8_Lab_8.pdf)|[Here](https://ucla.zoom.us/rec/share/zGE7DuEYNs15zWKOTz1z5CpMvFede-mJF_tMNjQdcEZKqZTHfS2tice04z4C4zIT.Wr4e8yqskuZsQxtG)|
 
 ## Lecture
 
