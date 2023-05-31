@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/30|Building and Sustaining Connections with Civil Society|Lecture|||
+|5/30|Building and Sustaining Connections with Civil Society|Lecture|[Here](./materials/AA191_S_W9_Lecture_9.pdf)|[Here](https://ucla.zoom.us/rec/share/olzYKfDuAq2BvkXdwI7trROKVybihXM3kZNForLJyF_NEhVDesXmkKP44pgx8KW6.k_Byz0uYX9vXQDyU)|
 |6/1|Final Finishing Touches|Lab|||
 
 ## Lecture
