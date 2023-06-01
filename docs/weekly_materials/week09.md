@@ -19,4 +19,4 @@ Date|Type|Description|Slides|Recording|
 
 ## Lab
 
-- Final Finishing Touches
+- [Final Finishing Touches](./labs/week9-10/README.md)

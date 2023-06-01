@@ -85,8 +85,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 function addMarker(data){
     // console.log(data)
     // these are the names of our lat/long fields in the google sheets:
-    L.marker([data.lat,data.lng]).addTo(map).bindPopup(`<h2>${data['Where did you get vaccinated?']}</h2> <h3>${data['Have you been vaccinated?']}</h3>`)
-    createButtons(data.lat,data.lng,data['Where did you get vaccinated?'])
+    L.marker([data.lat,data.lng]).addTo(map).bindPopup(`<h2>${data['What zip code do you live in?']}</h2> <h3>${data['Have you been vaccinated?']}</h3>`)
+    createButtons(data.lat,data.lng,data['What zip code do you live in?'])
     return
 }
 

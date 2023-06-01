@@ -2,7 +2,7 @@
 
 ## Due 6/8
 
-What are your thoughts about the future of web development for civil society? Which visiting voice left the most impact on you? What connections (if any) would you like to maintain from this class going forward?
+What are your thoughts about the future of web development for civil society? Which visiting voice left the most impact on you? What connections to people (if any) would you like to maintain from this class going forward?
 
 ## Submission
 

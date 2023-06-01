@@ -1,6 +1,21 @@
-# ✅ Final Template Code
+# Final Finishing Touches
 
-Your final code should look like the following:
+The goal of this make-up lab is to get more familiar with coding for your final group projects.
+
+!!! tldr "Goals"
+    - Touch up our map with a legend
+    - Revisiting legendary CSS Grid
+    - Add another new Leaflet plugin
+
+![](./media/gridDone.png){: style="max-width:300px"}
+
+## Lab outline
+
+1. [Legendary Additions!](./1.md)
+2. [Revisiting CSS Grid](./2.md)
+
+
+## Starting template code for final lab (lab #9)
 
 ```html title="index.html" linenums="1"
 <!DOCTYPE html>

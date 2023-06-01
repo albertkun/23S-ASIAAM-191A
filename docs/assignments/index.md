@@ -8,13 +8,14 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**In-Class Thinking Cap**](./week8/thinking_cap.md)|Thinking Cap|Tuesday 5/30|
 |[**Rough Draft**](./week8/group_assignment.md)|Group Assignment|Thursday 6/1|
+|[**Final Thinking Cap**](./week9/thinking_cap.md)|Thinking Cap|Thursday 6/8|
 
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**In-Class Thinking Cap**](./week8/thinking_cap.md)|Thinking Cap|Tuesday 5/30|
 |[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Thursday 5/25|
 |[**Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Thursday 5/25|
 |[**Data Justice**](./week7/reading.md)|Weekly Reading|Tuesday 5/23|
