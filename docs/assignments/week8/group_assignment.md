@@ -8,7 +8,7 @@ This assignment will be graded on the following:
 
 1. Fulfillment of the user stories set forth in the memo
 2. Relevant functionality that is specific to empowering community voices
-3. A `readme.md` for the repository that describes the technology used for the project and how others could use it in the future
+3. A `readme.md` for the repository that describes the **technology** used for the project and how others **could use it** in the future
 4. A short 2-3 minute presentation
 
 ## Presentation (2-3 minutes total)
@@ -27,4 +27,5 @@ This assignment will be graded on the following:
 
 ## Submission
 Post your group's repository and website link in this assignment thread:
-https://github.com/albertkun/23S-ASIAAM-191A/discussions/25
+
+- https://github.com/albertkun/23S-ASIAAM-191A/discussions/25
