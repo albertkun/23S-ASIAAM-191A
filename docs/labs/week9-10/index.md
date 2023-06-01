@@ -1,5 +1,9 @@
 # Final Finishing Touches
 
+### Group Peer Review Exercise
+
+- [Group Peer Review Exercise](./peer_review.md)
+
 The goal of this make-up lab is to get more familiar with coding for your final group projects.
 
 !!! tldr "Goals"
@@ -13,6 +17,8 @@ The goal of this make-up lab is to get more familiar with coding for your final 
 
 1. [Legendary Additions!](./1.md)
 2. [Revisiting CSS Grid](./2.md)
+3. [Adding another Leaflet plugin](./3.md)
+4. [Final Lab Code](./4.md)
 
 
 ## Starting template code for final lab (lab #9)
