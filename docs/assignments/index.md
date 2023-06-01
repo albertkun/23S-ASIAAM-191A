@@ -10,7 +10,7 @@ tags:
 |-----------|----|---|
 |[**Rough Draft**](./week8/group_assignment.md)|Group Assignment|Thursday 6/1|
 |[**Final Thinking Cap**](./week9/thinking_cap.md)|Thinking Cap|Thursday 6/8|
-|[**Final**](./week9-10/final.md)|Group Assignment|Tuesday 6/13|
+|[**Final**](./final.md)|Group Assignment|Tuesday 6/13|
 
 ## Past Assignments
 
