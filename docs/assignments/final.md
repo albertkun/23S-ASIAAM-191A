@@ -7,7 +7,7 @@ Groups will give a 10-12 minute presentation with another 5 minutes for question
 
 Between 6/8 and 6/16, each member **must** individually take this group evaluation:
 
-https://forms.office.com/r/TaNcM3RckD
+- https://forms.office.com/r/TaNcM3RckD [Available week 10]
 
 ## Evaluation
 Criteria | Points
@@ -41,7 +41,7 @@ Give a 12 to 15 minute presentation explaining the application, who it's designe
 
 This course is designed around the principles of collaboration. In order to get a sense of how the group dynamics were and to reflect your own contributions to the group, each member must evaluate themselves and their groupmates using this form:
 
-- https://forms.office.com/r/TaNcM3RckD
+- https://forms.office.com/r/TaNcM3RckD [Available week 10]
 
 
 ### 6. **Repository Documentation** 
