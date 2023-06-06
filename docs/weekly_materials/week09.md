@@ -21,6 +21,3 @@ Date|Type|Description|Slides|Recording|
 
 - [Final Finishing Touches](../labs/week9-10/index.md)
 
-### Group Peer Review Exericse
-
-- [Group Peer Review Exercise](../labs/week9-10/peer_review.md)

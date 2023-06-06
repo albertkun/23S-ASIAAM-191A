@@ -1,14 +1,10 @@
 # Final Finishing Touches
 
-### Group Peer Review Exercise
-
-- [Group Peer Review Exercise](./peer_review.md)
-
-The goal of this make-up lab is to get more familiar with coding for your final group projects.
+The goal of this lab is to get more familiar with coding for your final group projects.
 
 !!! tldr "Goals"
     - Touch up our map with a legend
-    - Revisiting legendary CSS Grid
+    - Revisiting CSS Grid!
     - Add another new Leaflet plugin
 
 ![](./media/gridDone.png){: style="max-width:300px"}
