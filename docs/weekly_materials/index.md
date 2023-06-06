@@ -13,6 +13,7 @@
 |#7|[Our roles as facilitators :link:](week07.md)|
 |#8|[Mentorship and collaboration :link:](week08.md)|
 |#9|[Connecting activism, technology, and social change :link:](week09.md)|
+|#10|[Beyond Web Development and GIS for social Change :link:](week10.md)|
 
 ## Course Materials
 
